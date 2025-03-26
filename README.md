@@ -1,4 +1,3 @@
-# knot-games-pdf-gen
 # Knot Games PDF Gen (Pixel-Perfect PDF Generator)
 
 A Node.js service that generates high-quality PDFs from HTML content using Puppeteer with precise control over formatting and styling.
